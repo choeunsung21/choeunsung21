@@ -14,7 +14,7 @@
 - **기간**: 2025.04.17 ~ 2025.05.23  
 - **주요 기술**: Java, Spring Boot, Thymeleaf, MariaDB, HTML, JavaScript  
 - **설명**: 그룹웨어 통합 서비스 개발 (일정/근태/전자결재 등)  
-- **GitHub**: [Eroom Repository](https://github.com/hsj.../eroom)
+- **GitHub**: [Eroom](https://github.com/hsjeondev/eroom/tree/develop)
 
 ---
 
@@ -22,7 +22,7 @@
 - **기간**: 2025.02.24 ~ 2025.03.11  
 - **주요 기술**: Java, Servlet/JSP, EL/JSTL, MyBatis, MariaDB  
 - **설명**: 축구를 사랑하는 사람들을 위한 풋살장 예약 및 팀 매칭 서비스  
-- **GitHub**: [SoccerMe Repository](https://github.com/cho...roject)
+- **GitHub**: [FootballMe](https://github.com/choeunsung21/semi_project)
 
 ---
 
@@ -30,7 +30,7 @@
 - **기간**: 2023.12.20 ~ 2024.02.10  
 - **주요 기술**: Dart, Flutter, Python, Django, AWS, Firebase, MySQL  
 - **설명**: 무용수와 무대 주최자들을 연결하는 플랫폼  
-- **GitHub**: [amuze_Back](https://github.com/Jeo...e_Back) / [amuze_Front](https://github.com/JeonHongShik/amuze_Front)
+- **GitHub**: [Amuze_Backend](https://github.com/JeonHongShik/amuze_Back)
 
 ---
 
