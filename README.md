@@ -14,7 +14,7 @@
 - **기간**: 2025.04.17 ~ 2025.05.23  
 - **주요 기술**: Java, Spring Boot, Thymeleaf, MariaDB, HTML, JavaScript  
 - **설명**: 그룹웨어 통합 서비스 개발 (일정/근태/전자결재 등)  
-- **GitHub**: [Eroom]([https://github.com/hsjeondev/eroom/tree/develop](https://github.com/hsjeondev/eroom/tree/develop))
+- **GitHub**: [Eroom](https://github.com/hsjeondev/eroom/tree/develop)
 
 ---
 
